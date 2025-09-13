@@ -9,9 +9,9 @@ Notes are written in a mix of **Hindi + English** for better conceptual clarity.
 
 | 📅 Day | 📄 PDF File | 📚 Topics Covered |
 |-------|-------------|-------------------|
-| Day 1 | [day1.pdf](./day1.pdf.pdf) | Introduction to HLD  |
-| Day 2 | [day2.pdf](./day2.pdf) | Scaling from 0 to Million of Users  |
-| Day 3 | [day3.pdf](./day3.pdf) | 📘 CAP Theorem | Back of the Envelope Calculation | Monolithic vs Microservice Architecture |
+| Day 1 | [day1.pdf](./Day1.pdf.pdf) | Introduction to HLD  |
+| Day 2 | [day2.pdf](./Day2.pdf) | Scaling from 0 to Million of Users  |
+| Day 3 | [day3.pdf](./Day3.pdf) | 📘 CAP Theorem | Back of the Envelope Calculation | Monolithic vs Microservice Architecture |
 | Day 4 | [day4.pdf](./day4.pdf) | *(To be updated)* |
 | Day 5 | [day5.pdf](./day5.pdf) | *(To be updated)* |
 | Day 6 | [day6.pdf](./day6.pdf) | *(To be updated)* |
